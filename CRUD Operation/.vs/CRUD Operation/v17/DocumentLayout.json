@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.Net\\CRUD Operation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{087F1F08-D207-428C-AAB5-0C764169EE67}|CRUD Operation\\CRUD Operation.csproj|c:\\.net\\crud operation\\crud operation\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{087F1F08-D207-428C-AAB5-0C764169EE67}|CRUD Operation\\CRUD Operation.csproj|solutionrelative:crud operation\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087F1F08-D207-428C-AAB5-0C764169EE67}|CRUD Operation\\CRUD Operation.csproj|C:\\.Net\\CRUD Operation\\crud operation\\codes\\code files\\cascading dropdowlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{087F1F08-D207-428C-AAB5-0C764169EE67}|CRUD Operation\\CRUD Operation.csproj|solutionrelative:crud operation\\codes\\code files\\cascading dropdowlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087F1F08-D207-428C-AAB5-0C764169EE67}|CRUD Operation\\CRUD Operation.csproj|C:\\.Net\\CRUD Operation\\crud operation\\codes\\code files\\cascading dropdowlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{087F1F08-D207-428C-AAB5-0C764169EE67}|CRUD Operation\\CRUD Operation.csproj|solutionrelative:crud operation\\codes\\code files\\cascading dropdowlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\.Net\\CRUD Operation\\CRUD Operation\\Web.config",
+              "RelativeDocumentMoniker": "CRUD Operation\\Web.config",
+              "ToolTip": "C:\\.Net\\CRUD Operation\\CRUD Operation\\Web.config",
+              "RelativeToolTip": "CRUD Operation\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-21T18:55:58.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cascading DropdowList.aspx.cs",
+              "DocumentMoniker": "C:\\.Net\\CRUD Operation\\CRUD Operation\\Codes\\Code Files\\Cascading DropdowList.aspx.cs",
+              "RelativeDocumentMoniker": "CRUD Operation\\Codes\\Code Files\\Cascading DropdowList.aspx.cs",
+              "ToolTip": "C:\\.Net\\CRUD Operation\\CRUD Operation\\Codes\\Code Files\\Cascading DropdowList.aspx.cs",
+              "RelativeToolTip": "CRUD Operation\\Codes\\Code Files\\Cascading DropdowList.aspx.cs",
+              "ViewState": "AQIAAIQAAADAyczMzMwiwJAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T14:53:07.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cascading DropdowList.aspx",
+              "DocumentMoniker": "C:\\.Net\\CRUD Operation\\CRUD Operation\\Codes\\Code Files\\Cascading DropdowList.aspx",
+              "RelativeDocumentMoniker": "CRUD Operation\\Codes\\Code Files\\Cascading DropdowList.aspx",
+              "ToolTip": "C:\\.Net\\CRUD Operation\\CRUD Operation\\Codes\\Code Files\\Cascading DropdowList.aspx",
+              "RelativeToolTip": "CRUD Operation\\Codes\\Code Files\\Cascading DropdowList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-21T14:46:44.367Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

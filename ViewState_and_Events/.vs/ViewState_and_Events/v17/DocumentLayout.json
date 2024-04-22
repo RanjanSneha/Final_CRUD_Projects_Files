@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.Net\\ViewState_and_Events\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F436D0B1-7DF6-4635-9400-DE4441912B55}|ViewState_and_Events\\ViewState_and_Events.csproj|c:\\.net\\viewstate_and_events\\viewstate_and_events\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F436D0B1-7DF6-4635-9400-DE4441912B55}|ViewState_and_Events\\ViewState_and_Events.csproj|solutionrelative:viewstate_and_events\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F436D0B1-7DF6-4635-9400-DE4441912B55}|ViewState_and_Events\\ViewState_and_Events.csproj|c:\\.net\\viewstate_and_events\\viewstate_and_events\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F436D0B1-7DF6-4635-9400-DE4441912B55}|ViewState_and_Events\\ViewState_and_Events.csproj|solutionrelative:viewstate_and_events\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F436D0B1-7DF6-4635-9400-DE4441912B55}|ViewState_and_Events\\ViewState_and_Events.csproj|c:\\.net\\viewstate_and_events\\viewstate_and_events\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F436D0B1-7DF6-4635-9400-DE4441912B55}|ViewState_and_Events\\ViewState_and_Events.csproj|solutionrelative:viewstate_and_events\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ViewState_and_Events||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F436D0B1-7DF6-4635-9400-DE4441912B55}|ViewState_and_Events\\ViewState_and_Events.csproj|c:\\.net\\viewstate_and_events\\viewstate_and_events\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F436D0B1-7DF6-4635-9400-DE4441912B55}|ViewState_and_Events\\ViewState_and_Events.csproj|solutionrelative:viewstate_and_events\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F436D0B1-7DF6-4635-9400-DE4441912B55}|ViewState_and_Events\\ViewState_and_Events.csproj|c:\\.net\\viewstate_and_events\\viewstate_and_events\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|909d16b3-c8e8-43d1-a2b8-26ea0d4b6b57"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\.Net\\ViewState_and_Events\\ViewState_and_Events\\Default.aspx",
+              "RelativeDocumentMoniker": "ViewState_and_Events\\Default.aspx",
+              "ToolTip": "C:\\.Net\\ViewState_and_Events\\ViewState_and_Events\\Default.aspx",
+              "RelativeToolTip": "ViewState_and_Events\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-14T16:39:30.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\.Net\\ViewState_and_Events\\ViewState_and_Events\\Web.config",
+              "RelativeDocumentMoniker": "ViewState_and_Events\\Web.config",
+              "ToolTip": "C:\\.Net\\ViewState_and_Events\\ViewState_and_Events\\Web.config",
+              "RelativeToolTip": "ViewState_and_Events\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-14T16:30:55.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewState_and_Events",
+              "DocumentMoniker": "C:\\.Net\\ViewState_and_Events\\ViewState_and_Events\\ViewState_and_Events.csproj",
+              "RelativeDocumentMoniker": "ViewState_and_Events\\ViewState_and_Events.csproj",
+              "ToolTip": "C:\\.Net\\ViewState_and_Events\\ViewState_and_Events\\ViewState_and_Events.csproj*",
+              "RelativeToolTip": "ViewState_and_Events\\ViewState_and_Events.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-14T16:00:53.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\.Net\\ViewState_and_Events\\ViewState_and_Events\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "ViewState_and_Events\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\.Net\\ViewState_and_Events\\ViewState_and_Events\\WebForm1.aspx.cs",
+              "RelativeToolTip": "ViewState_and_Events\\WebForm1.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:04:55.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\.Net\\ViewState_and_Events\\ViewState_and_Events\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "ViewState_and_Events\\WebForm1.aspx",
+              "ToolTip": "C:\\.Net\\ViewState_and_Events\\ViewState_and_Events\\WebForm1.aspx",
+              "RelativeToolTip": "ViewState_and_Events\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-14T14:03:37.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

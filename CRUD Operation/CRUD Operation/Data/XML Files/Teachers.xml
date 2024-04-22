@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Teachers>
+	<Teacher>
+		<TeacherID>101</TeacherID>
+		<TeacherName>Ravi</TeacherName>
+	</Teacher>
+	<Teacher>
+		<TeacherID>102</TeacherID>
+		<TeacherName>Sneha</TeacherName>
+	</Teacher>
+	<Teacher>
+		<TeacherID>103</TeacherID>
+		<TeacherName>Saurav</TeacherName>
+	</Teacher>
+	<Teacher>
+		<TeacherID>104</TeacherID>
+		<TeacherName>Deepen</TeacherName>
+	</Teacher>
+	<Teacher>
+		<TeacherID>105</TeacherID>
+		<TeacherName>Akash</TeacherName>
+	</Teacher>
+	<Teacher>
+		<TeacherID>106</TeacherID>
+		<TeacherName>Smita</TeacherName>
+	</Teacher>
+</Teachers>
